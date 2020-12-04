@@ -3,5 +3,7 @@
 .oakley {
     display: flex;
     justify-content: center;
-    margin: 160px auto 80px;
+    padding-top: 160px;
+    padding-bottom: 80px;
+    background-color: #f2f2f2;
   }
