@@ -1,0 +1,11 @@
+@import url(./__triangle/kaufman__triangle.css);
+/* link the dark theme section-title, section-subtitle, and table here */
+.kaufman {
+    padding: 90px 0px;
+    background-color: #1f1f1f;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 1;
+  }
